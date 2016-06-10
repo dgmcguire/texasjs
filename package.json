@@ -1,0 +1,19 @@
+{
+  "name": "texasjs",
+  "version": "1.0.0",
+  "description": "Client code necessary for using elixirs texas library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgmcguire/texasjs.git"
+  },
+  "author": "Dan McGuire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dgmcguire/texasjs/issues"
+  },
+  "homepage": "https://github.com/dgmcguire/texasjs#readme"
+}
