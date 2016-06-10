@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/dgmcguire/texasjs/issues"
   },
-  "homepage": "https://github.com/dgmcguire/texasjs#readme"
+  "homepage": "https://github.com/dgmcguire/texasjs#readme",
+  "dependencies": {
+    "virtual-dom": "2.1.1",
+    "html-to-vdom": "0.7.0",
+    "jquery": "2.2.3"
+  }
 }
